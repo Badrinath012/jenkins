@@ -1,2 +1,2 @@
 # jenkins
-push based jenkins
+push based jenkins pro
